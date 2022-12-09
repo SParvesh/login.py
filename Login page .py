@@ -2,6 +2,7 @@ from tkinter import *
 
 root = Tk()
 root.configure(bg="pink")
+root.cofig.yml
 root.title("Login Page")
 
 Label(root, text="Login page", font=("Georgia", 30, "bold"), bg="pink", fg="red").pack()
